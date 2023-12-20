@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
 <body>
- 
-<?php
-echo "My first PHP script!";
-?>
 
+<?php
+if (5 > 3) {
+  echo "Have a good day!";
+}
+?>
+ 
 </body>
 </html>
